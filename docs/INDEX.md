@@ -10,6 +10,7 @@ public use an em dash (—).
 
 | Entry | Slug | Title | Track | Public source |
 | --- | --- | --- | --- | --- |
+
 | M-0001 | vellum-adaptive-annotation-for-agent-traces | Adaptive Annotation for Agent Traces | data | https://github.com/vellum-archive/vellum-adaptive-annotation-for-agent-traces |
 | M-0002 | vellum-adaptive-annotation-for-biomedical-text | Adaptive Annotation for Biomedical Text | data | https://github.com/vellum-archive/vellum-adaptive-annotation-for-biomedical-text |
 | M-0003 | vellum-adaptive-annotation-for-code-corpora | Adaptive Annotation for Code Corpora | data | https://github.com/vellum-archive/vellum-adaptive-annotation-for-code-corpora |
@@ -54,6 +55,7 @@ public use an em dash (—).
 | M-0042 | vellum-adaptive-sampler-for-biomedical-text | Adaptive Sampler for Biomedical Text | data | https://github.com/vellum-archive/vellum-adaptive-sampler-for-biomedical-text |
 | M-0043 | vellum-adaptive-sampler-for-code-corpora | Adaptive Sampler for Code Corpora | data | https://github.com/vellum-archive/vellum-adaptive-sampler-for-code-corpora |
 | M-0044 | vellum-adaptive-sampler-for-dialogue-logs | Adaptive Sampler for Dialogue Logs | data | https://github.com/vellum-archive/vellum-adaptive-sampler-for-dialogue-logs |
+| M-0221 | vellum-benchsuite | BenchSuite: A Cross-Domain Harness for Agentic Workflows | data | https://github.com/komal74784391-netizen/vellum-benchsuite |
 | M-0045 | vellum-abstract-chain-for-diagram-puzzles | Abstract Chain for Diagram Puzzles | reasoning | https://github.com/vellum-archive/vellum-abstract-chain-for-diagram-puzzles |
 | M-0046 | vellum-abstract-chain-for-instruction-sets | Abstract Chain for Instruction Sets | reasoning | — |
 | M-0047 | vellum-abstract-chain-for-logic-games | Abstract Chain for Logic Games | reasoning | https://github.com/vellum-archive/vellum-abstract-chain-for-logic-games |
@@ -98,6 +100,8 @@ public use an em dash (—).
 | M-0086 | vellum-abstract-router-for-instruction-sets | Abstract Router for Instruction Sets | reasoning | https://github.com/vellum-archive/vellum-abstract-router-for-instruction-sets |
 | M-0087 | vellum-abstract-router-for-logic-games | Abstract Router for Logic Games | reasoning | https://github.com/vellum-archive/vellum-abstract-router-for-logic-games |
 | M-0088 | vellum-abstract-router-for-math-word-problems | Abstract Router for Math Word Problems | reasoning | — |
+| M-0222 | vellum-retrieval-budget | Budget-Aware Retrieval for Long-Horizon Agents | reasoning | — |
+| M-0223 | vellum-contextlab | ContextLab: Calibrated Context Windows for Retrieval Pipelines | reasoning | https://github.com/komal74784391-netizen/vellum-contextlab |
 | M-0089 | vellum-asynchronous-cache-for-batch-inference | Asynchronous Cache for Batch Inference | systems | https://github.com/vellum-archive/vellum-asynchronous-cache-for-batch-inference |
 | M-0090 | vellum-asynchronous-cache-for-edge-clusters | Asynchronous Cache for Edge Clusters | systems | https://github.com/vellum-archive/vellum-asynchronous-cache-for-edge-clusters |
 | M-0091 | vellum-asynchronous-cache-for-gpu-pools | Asynchronous Cache for GPU Pools | systems | https://github.com/vellum-archive/vellum-asynchronous-cache-for-gpu-pools |
@@ -142,6 +146,9 @@ public use an em dash (—).
 | M-0130 | vellum-asynchronous-shard-for-edge-clusters | Asynchronous Shard for Edge Clusters | systems | — |
 | M-0131 | vellum-asynchronous-shard-for-gpu-pools | Asynchronous Shard for GPU Pools | systems | https://github.com/vellum-archive/vellum-asynchronous-shard-for-gpu-pools |
 | M-0132 | vellum-asynchronous-shard-for-hybrid-clouds | Asynchronous Shard for Hybrid Clouds | systems | https://github.com/vellum-archive/vellum-asynchronous-shard-for-hybrid-clouds |
+| M-0224 | vellum-quantizer | Quantizer: Mixed-Precision Kernels for Edge Inference | systems | https://github.com/komal74784391-netizen/vellum-quantizer |
+| M-0225 | vellum-routekit | RouteKit: Sparse Routing for Multi-Agent Tool Use | systems | https://github.com/komal74784391-netizen/vellum-routekit |
+| M-0226 | vellum-schedflow | SchedFlow: Deadline-Aware Scheduling for Batch Inference | systems | https://github.com/komal74784391-netizen/vellum-schedflow |
 | M-0133 | vellum-asymptotic-analysis-for-active-learning | Asymptotic Analysis for Active Learning | theory | https://github.com/vellum-archive/vellum-asymptotic-analysis-for-active-learning |
 | M-0134 | vellum-asymptotic-analysis-for-bandit-models | Asymptotic Analysis for Bandit Models | theory | https://github.com/vellum-archive/vellum-asymptotic-analysis-for-bandit-models |
 | M-0135 | vellum-asymptotic-analysis-for-graph-signals | Asymptotic Analysis for Graph Signals | theory | https://github.com/vellum-archive/vellum-asymptotic-analysis-for-graph-signals |
