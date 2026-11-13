@@ -1,0 +1,9 @@
+ref,description,package,qty,mpn
+U1,mesh radio module,SMD-24,1,BR-2412A
+U2,power supervisor,SOT-23-6,1,PS-3306
+U3,sensor bridge,MSOP-10,1,SB-7710
+C1-c8,decoupling 100nF,0402,8,CC0402-104
+C9,decoupling 10uF,0805,1,CC0805-106
+R1-r4,pull-up 10k,0402,4,RR0402-103
+J1,waterproof connector,IP68-6P,1,WC-06P
+Y1,32.768kHz crystal,3225,1,XT-32768

@@ -1,1 +1,0 @@
-"""Placeholder pipeline stage."""
